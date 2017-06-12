@@ -1,0 +1,1 @@
+C:\Users\cilde\Documents\HoloLens Practice\App\HoloLens Practice\HoloLens Practice.csproj;x86
